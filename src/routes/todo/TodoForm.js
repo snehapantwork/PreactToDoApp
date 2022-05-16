@@ -50,7 +50,7 @@ const TodoForm = (props) => {
             ref={inputRef}
           ></input>
           <button class={style.todobutton} onClick={handleSubmit}>
-            Add Task
+            Add Task.
           </button>
         </>
       )}
